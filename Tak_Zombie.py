@@ -1,4 +1,4 @@
-#A COMMENT
+#A COMMENT from Andy
 
 import pygame
 from random import randint
